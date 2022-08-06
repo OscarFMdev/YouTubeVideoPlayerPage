@@ -27,16 +27,22 @@ nav div {
 
 .search input {
     height: 30px;
-    width: 300px;
+    width: 450px;
 }
 
 .search img{
-    height: 27px;
+    height: 29px;
     width: auto; 
 }
 
+.search button {
+    background-color: rgb(245, 245, 245);
+    border: solid gray 0.1px;
+    width: 70px;
+}
+
 .search .mic {
-    height: 27px;
+    height: 23px;
     margin-left: 10px ;
 }
 
