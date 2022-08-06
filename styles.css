@@ -66,6 +66,30 @@ nav div {
 }
 
 /*VIDEO*/
+.structure {
+    display: flex;
+    justify-content: space-around;
+}
+
+.suggestion {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+.suggestion h5 {
+    margin-top: 0;
+    margin-left: 10px;
+    height: 10px;
+    margin-right: 100px;
+}
+
+.suggestion p {
+    font-size: 10px;
+    width: 300px;
+    margin-top: 0;
+    margin-left: 10px;
+}
 
 
 
