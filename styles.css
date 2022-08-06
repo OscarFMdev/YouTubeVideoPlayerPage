@@ -1,0 +1,67 @@
+/*GLOBALS*/
+
+
+/*NAV BAR*/
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+}
+
+nav img {
+    width: 150px;
+    height: auto;
+}
+
+
+nav div {
+    display: flex;
+    align-items: center;
+}
+
+.hamburguer {
+    width: 70px;
+    height: auto;
+}
+
+.search input {
+    height: 30px;
+    width: 300px;
+}
+
+.search img{
+    height: 27px;
+    width: auto; 
+}
+
+.search .mic {
+    height: 27px;
+    margin-left: 10px ;
+}
+
+.user {
+    gap: 20px;
+}
+
+.user img {
+    height: auto;
+    width: 40px;
+}
+.user img:nth-child(1),
+.user img:nth-child(2) {
+    height: 20px;
+    width: auto;
+}
+
+.user img:last-child{
+    border-radius: 30px;
+    margin-right: 20px;
+}
+
+/*VIDEO*/
+
+
+
+
+/*SIDE-BAR*/
